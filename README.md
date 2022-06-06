@@ -2,6 +2,8 @@
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=%23F7F7F7&size=24&lines=Graduating+Software+Engineer;learning+New+Tech;Graphic+Designing+Is+My+Hobby)
+
+
 ![](https://komarev.com/ghpvc/?username=mfaeezshabbir&color=blue&label=Profile+Views)
 <br/>
 
