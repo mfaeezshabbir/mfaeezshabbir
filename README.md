@@ -1,11 +1,14 @@
 # Greetings, folks! I'm [Muhammad Faeez Shabbir!](https://www.github.com/mfaeezshabbir)
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  -->
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=%23F7F7F7&size=24&lines=Graduating+Software+Engineer;learning+New+Tech;Graphic+Designing+Is+My+Hobby)
 
 
-![](https://komarev.com/ghpvc/?username=mfaeezshabbir&color=blue&label=Profile+Views)
-<br/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mfaeezshabbir/count.svg" />
+</p>
+
 
 ___
 <h3 align="left">Connect with me:</h3>
