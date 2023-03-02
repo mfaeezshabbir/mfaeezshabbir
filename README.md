@@ -1,7 +1,7 @@
 # Greetings, folks! I'm [Muhammad Faeez Shabbir!](https://www.github.com/mfaeezshabbir)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=%23F7F7F7&size=24&lines=Graduating+Software+Engineer;learning+New+Tech;Graphic+Designing+Is+My+Hobby)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=%23F7F7F7&size=24&lines=Software+Engineer;Tech+Enthusiast;Graphic+Designer)
 
 
 <p align="center"> 
@@ -84,6 +84,7 @@ ___
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=mfaeezshabbir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
 </p>
+
 <h2 align="left">Detailed GitHub Stats </h2>
 
 ![GitHub metrics](https://metrics.lecoq.io/mfaeezshabbir)  
