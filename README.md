@@ -1,12 +1,12 @@
 Greetings folks! 👋 My name is Muhammad Faeez Shabbir
 =======================================
 
-Software Engineer And Graphic Designer
+Currently, I am a graduating software engineer, web developer and graphic designer.
+I'm also the Ambassador of [Intel's oneAPI](https://devmesh.intel.com/users/muhammad-faeez-shabbir) and Lead of [DevHack Club](https://github.com/devhackclub)
 --------------------------------------
 
 * 🌍  I'm based in Bahawalpur, PK
 * ✉️  You can contact me at [faizytech1st@gmail.com](mailto:faizytech1st@gmail.com)
-* 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on interesting projects
 
 Coding and designing for over 3 years, I'm a passionate tech enthusiast striving to make a significant impact in the industry. I am dedicated to promoting technology and empowering students to become future leaders in the tech industry.
@@ -16,7 +16,8 @@ Coding and designing for over 3 years, I'm a passionate tech enthusiast striving
 <a href="https://www.github.com/mfaeezshabbir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mfaeezshabbir?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/mfaeezshabbir" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mfaeezshabbir?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a></p>
+/></a>
+<a href="https://wakatime.com/@ec68faeb-bba6-4f52-a2dc-9e7390bc1ab8"><img src="https://wakatime.com/badge/user/ec68faeb-bba6-4f52-a2dc-9e7390bc1ab8.svg?style=for-the-badge" alt="Total time coded since Mar 2 2023" /></a></p>
 
 
 
@@ -87,10 +88,14 @@ ___
 <p align="center">
 <a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaeezshabbir&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-<p align="center">
-<a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mfaeezshabbir&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <p align="center">
+<a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mfaeezshabbir&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 </p>
+<p align="center">
+<a href="http://www.github.com/mfaeezshabbir"><img src="https://wakatime.com/share/@mfaeezshabbir/a2dc9bdb-6dbc-40d5-ab45-1a6bbca305c0.svg" alt="GitHub Commits Graph" /></a>
+</p>
+
 <p align="center">
 <a href="https://github.com/mfaeezshabbir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaeezshabbir&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
