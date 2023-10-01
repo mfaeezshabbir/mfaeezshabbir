@@ -1,9 +1,8 @@
-Greetings folks! 👋 My name is Muhammad Faeez Shabbir
-=======================================
+# Greetings folks! 👋 My name is Muhammad Faeez Shabbir
+
 
 Currently, I am a graduating software engineer, web developer and graphic designer.
-I'm also the Ambassador of [Intel's oneAPI](https://devmesh.intel.com/users/muhammad-faeez-shabbir) and Lead of [DevHack Club](https://github.com/devhackclub)
---------------------------------------
+I'm also the Ambassador of [Intel's oneAPI](https://devmesh.intel.com/users/muhammad-faeez-shabbir) and [DevHack Club](https://github.com/devhackclub) Lead.
 
 * 🌍  I'm based in Bahawalpur, PK
 * ✉️  You can contact me at [faizytech1st@gmail.com](mailto:faizytech1st@gmail.com)
