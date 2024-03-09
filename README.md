@@ -35,6 +35,8 @@ ___
 
 <img src="https://raw.githubusercontent.com/mfaeezshabbir/mfaeezshabbir/output/snake.svg" alt="Snake animation" />
 
+###
+
 ___
 
 <h3 align="left">Tech Stack:</h3>
