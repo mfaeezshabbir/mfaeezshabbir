@@ -87,12 +87,13 @@ ___
 
 </p>
 <p align="center">
-<a href="http://www.github.com/mfaeezshabbir"><img src="https://wakatime.com/share/@mfaeezshabbir/a2dc9bdb-6dbc-40d5-ab45-1a6bbca305c0.svg" alt="GitHub Commits Graph" /></a>
+<!-- <a href="https://github.com/mfaeezshabbir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaeezshabbir&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/mfaeezshabbir" align="left"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaeezshabbir&hide=HTML&langs_count=10&layout=compact&title_color=ec4899&text_color=ffffff&bg_color=0f172a&theme=react&hide_border=true&border_radius=2&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
+</p>
+<p align="center">
+<a href="http://www.github.com/mfaeezshabbir"><img src="https://wakatime.com/share/@mfaeezshabbir/a2dc9bdb-6dbc-40d5-ab45-1a6bbca305c0.svg" width="500px" alt="GitHub Commits Graph" /></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/mfaeezshabbir" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfaeezshabbir&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
 
 ___
 ## 🏆 GitHub Trophies
