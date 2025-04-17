@@ -80,10 +80,10 @@ ___
 <h3 align="left">📊 My GitHub Stats:</h3>
 
 <p align="center">
-<a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-stats.vercel.app/api?username=mfaeezshabbir&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="mfaeezshabbir's GitHub stats" /></a>
+<a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-stats.vercel.app/api?username=mfaeezshabbir&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=EB5454&bg_color=0f172a&hide_border=true&show_icons=true" alt="mfaeezshabbir's GitHub stats" /></a>
 </p>
 <p align="center">
-<a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mfaeezshabbir&stroke=ffffff&background=0f172a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/mfaeezshabbir"><img src="https://nirzak-streak-stats.vercel.app?user=mfaeezshabbir&hide_border=true&background=0F172A&ring=EC4899&fire=FF6B05&currStreakNum=FFFFFF&sideNums=EC4899&currStreakLabel=EC4899&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=5DEB33" /></a>
 </p>
 <!-- <p align="center">
 <a href="http://www.github.com/mfaeezshabbir"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mfaeezshabbir&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
