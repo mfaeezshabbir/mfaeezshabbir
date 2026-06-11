@@ -26,7 +26,7 @@ Ex: Intel oneAPI Ambassador · Microsoft Learn Student Ambassador · Founder, De
 
 </div>
 
----
+
 
 ## What I’m Building
 
@@ -37,7 +37,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 - Backend architectures designed for scale, reliability, and observability  
 - Systems that move from prototype to production without rewrites  
 
----
+
 
 ## Engineering Focus
 
@@ -47,13 +47,15 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 - Reliability, latency, and maintainability over complexity  
 - Clean separation between logic, data, and orchestration  
 
----
+
 
 ## Tech Stack
 
 ### Core Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frontend Systems
@@ -64,6 +66,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
@@ -71,6 +74,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 
 ### AI & Data Systems
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge)
 
@@ -79,27 +83,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
----
 
-## System Design Mental Model
-
-```
-
-[ Users / Clients ]
-↓
-[ API Gateway / Backend Layer ]
-↓
-[ AI Orchestration Layer (LangChain, Agents) ]
-↓
-[ Business Logic / Processing Layer ]
-↓
-[ Databases / Vector / Geospatial Stores ]
-↓
-[ Frontend / Product Interfaces ]
-
-```
-
----
 
 ## What I Work On
 
@@ -109,19 +93,9 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 - Scalable full stack architectures  
 - Production-grade API systems  
 
----
 
-## Experience
 
-- **Visor Dynamics** — Full Stack & AI Systems Engineer (Current)  
-- Intel oneAPI — Student Ambassador  
-- Microsoft Learn — Student Ambassador  
-- DevHack Club — Founder  
-- IEEE IUB — Leadership Role  
-
----
-
-## Engineering Signal
+## Work in Motion
 
 A snapshot of public engineering activity and consistency.
 
