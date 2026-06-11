@@ -2,12 +2,12 @@
 
 # MUHAMMAD FAEEZ SHABBIR
 
-**Full Stack & AI Systems Engineer · Systems Builder**
+**Full Stack & AI Engineer**
 
-Building production AI systems and scalable full stack platforms.
-
-4+ years across startups, freelance, and corporate engineering.
-Currently at **Visor Dynamics**, building LangChain-powered pipelines and geospatial intelligence systems with a focus on architecture, scalability, and delivery.
+Building production AI systems and scalable full stack platforms.<br/>
+4+ years across startups, freelance, and corporate engineering.<br/>
+Currently at **Visor Dynamics** — LangChain-powered pipelines, geospatial intelligence,<br/>
+and architecture decisions that hold up in production.
 
 <br/>
 
@@ -22,32 +22,31 @@ Currently at **Visor Dynamics**, building LangChain-powered pipelines and geospa
 
 Lahore, Pakistan · mfaeezshabbir@gmail.com
 
-Ex: Intel oneAPI Ambassador · Microsoft Learn Student Ambassador · Founder, DevHack Club · IEEE Leadership (IUB)
+Ex: Intel oneAPI Ambassador · Microsoft Learn Student Ambassador · Founder, DevHack Club · IEEE Leadership @ IUB
 
 </div>
 
+---
 
-
-## What I’m Building
+## What I'm Building
 
 At **Visor Dynamics**, I build systems that turn AI and geospatial data into production-grade intelligence platforms.
 
-- LangChain-powered AI pipelines for structured reasoning and tool use  
-- Geospatial intelligence systems for real-world mapping and analytics  
-- Backend architectures designed for scale, reliability, and observability  
-- Systems that move from prototype to production without rewrites  
+- LangChain-powered AI pipelines for structured reasoning and tool use
+- Geospatial intelligence systems for real-world mapping and analytics
+- Backend architectures designed for scale, reliability, and observability
+- Systems that move from prototype to production without rewrites
 
+---
 
+## Engineering Principles
 
-## Engineering Focus
+- Systems over features — architecture that scales before it needs to
+- Production-first thinking from day one
+- Clean separation between logic, data, and orchestration
+- Reliability and maintainability over cleverness
 
-- Build systems, not features  
-- Production-first architecture thinking  
-- Scalable backend and AI pipelines  
-- Reliability, latency, and maintainability over complexity  
-- Clean separation between logic, data, and orchestration  
-
-
+---
 
 ## Tech Stack
 
@@ -58,7 +57,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend Systems
+### Frontend
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -66,7 +65,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
@@ -74,7 +73,7 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 
 ### AI & Data Systems
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge)
 
@@ -83,24 +82,16 @@ At **Visor Dynamics**, I build systems that turn AI and geospatial data into pro
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-
-
-## What I Work On
-
-- AI-native backend systems  
-- Tool-using LLM pipelines  
-- Geospatial intelligence platforms  
-- Scalable full stack architectures  
-- Production-grade API systems  
-
-
+---
 
 ## Work in Motion
 
-A snapshot of public engineering activity and consistency.
+<div align="center">
 
 <img src="./profile/stats.svg" alt="GitHub Stats" />
 
 <img src="./profile/streak.svg" alt="GitHub Streak" />
 
 <img src="./profile/top-langs.svg" alt="Top Languages" />
+
+</div>
