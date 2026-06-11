@@ -2,55 +2,66 @@
 
 # MUHAMMAD FAEEZ SHABBIR
 
-**Full Stack & AI Engineer**
+**Full Stack & AI Systems Engineer · Systems Builder**
 
-Full Stack & AI Engineer with 4+ years of experience building scalable web applications and AI-powered systems.
-Currently at **Visor Dynamics**, working directly with the CTO on LangChain-powered AI pipelines and geospatial analytics platforms.
+Building production AI systems and scalable full stack platforms.
 
-[![Portfolio](https://img.shields.io/badge/mfaeezshabbir.me-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mfaeezshabbir.me)
+4+ years across startups, freelance, and corporate engineering.
+Currently at **Visor Dynamics**, building LangChain-powered pipelines and geospatial intelligence systems with a focus on architecture, scalability, and delivery.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mfaeezshabbir.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfaeezshabbir)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfaeezshabbir)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mfaeezshabbir)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dev_faeez)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mfaeezshabbir)
 [![Behance](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://behance.com/mfaeezshabbir)
 
-Lahore, Pakistan &nbsp;·&nbsp; mfaeezshabbir@gmail.com
+<br/>
+
+Lahore, Pakistan · mfaeezshabbir@gmail.com
+
+Ex: Intel oneAPI Ambassador · Microsoft Learn Student Ambassador · Founder, DevHack Club · IEEE Leadership (IUB)
 
 </div>
 
 ---
 
-<div align="center">
+## What I’m Building
 
-### What I work on
+At **Visor Dynamics**, I build systems that turn AI and geospatial data into production-grade intelligence platforms.
 
-AI pipelines & multi-agent systems &nbsp;·&nbsp; Full stack web applications &nbsp;·&nbsp; Geospatial analytics &nbsp;·&nbsp; Background job systems
-
-Former Intel oneAPI Ambassador &nbsp;·&nbsp; DevHack Club Lead &nbsp;·&nbsp; Former MLSA &nbsp;·&nbsp; IEEE Joint Secretary @ IUB
-
-</div>
+- LangChain-powered AI pipelines for structured reasoning and tool use  
+- Geospatial intelligence systems for real-world mapping and analytics  
+- Backend architectures designed for scale, reliability, and observability  
+- Systems that move from prototype to production without rewrites  
 
 ---
 
-<div align="center">
+## Engineering Focus
 
-### Tech Stack
+- Build systems, not features  
+- Production-first architecture thinking  
+- Scalable backend and AI pipelines  
+- Reliability, latency, and maintainability over complexity  
+- Clean separation between logic, data, and orchestration  
 
-**Languages**
+---
 
+## Tech Stack
+
+### Core Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
-
+### Frontend Systems
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-**Backend**
-
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,31 +69,64 @@ Former Intel oneAPI Ambassador &nbsp;·&nbsp; DevHack Club Lead &nbsp;·&nbsp; F
 ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white)
 
-**AI & Tooling**
-
+### AI & Data Systems
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-000000?style=for-the-badge)
+
+### Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Design**
-
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-
-</div>
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
-<div align="center">
+## System Design Mental Model
 
-### GitHub Stats
+```
+
+[ Users / Clients ]
+↓
+[ API Gateway / Backend Layer ]
+↓
+[ AI Orchestration Layer (LangChain, Agents) ]
+↓
+[ Business Logic / Processing Layer ]
+↓
+[ Databases / Vector / Geospatial Stores ]
+↓
+[ Frontend / Product Interfaces ]
+
+```
+
+---
+
+## What I Work On
+
+- AI-native backend systems  
+- Tool-using LLM pipelines  
+- Geospatial intelligence platforms  
+- Scalable full stack architectures  
+- Production-grade API systems  
+
+---
+
+## Experience
+
+- **Visor Dynamics** — Full Stack & AI Systems Engineer (Current)  
+- Intel oneAPI — Student Ambassador  
+- Microsoft Learn — Student Ambassador  
+- DevHack Club — Founder  
+- IEEE IUB — Leadership Role  
+
+---
+
+## Engineering Signal
+
+A snapshot of public engineering activity and consistency.
 
 <img src="./profile/stats.svg" alt="GitHub Stats" />
 
 <img src="./profile/streak.svg" alt="GitHub Streak" />
 
 <img src="./profile/top-langs.svg" alt="Top Languages" />
-
-</div>
